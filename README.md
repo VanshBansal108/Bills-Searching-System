@@ -18,8 +18,11 @@ Tools Used
 - Google Cloud Vision API  
 - openpyxl (for Excel)  
 - ChatGPT (for guidance and debugging)
-- Google sheets
-- Google drive
+- Google Sheets
+- Google Drive
+
+
+
 
 About:
 
