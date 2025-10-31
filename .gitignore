@@ -1,0 +1,7 @@
+# Ignore credentials and local files
+key.json
+*.json
+__pycache__/
+*.pyc
+extracted_bills.xlsx
+bills/
